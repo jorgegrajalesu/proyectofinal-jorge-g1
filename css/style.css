@@ -1,0 +1,238 @@
+#logo{
+    width: 200px;
+    height: 200px;
+}
+
+#menu{
+    background-color: #d3f1b0b9 !important;
+}
+
+
+
+.nav-link{
+    color: #000000;
+    font-weight: bold;
+
+}
+.nav-link .active{
+    color: #ffffff !important; 
+}
+
+/* dimensionar las images del carousel */
+.alto-img{
+    height: 550px !important;
+}
+
+/* Novedades */
+#novedades{
+    background-color:#dffdd7 !important;
+
+
+}
+
+#novedades .titulo{
+    width: 100%;
+    text-align: center;
+    color: #000000;
+    font-weight: 700;
+    padding-top: 5px;
+    
+}
+
+/* videos */
+#videos .titulo{
+    width: 100%;
+    text-align: center;
+
+}
+
+#videos{
+background-color: #dffdd7;
+margin:0 0 100px 0;
+}
+
+body{
+    /* activa o quita las barras de desplazamiento */
+    overflow-x: hidden;
+}
+
+/* footer */
+#page-footer{
+    background-color: #dffdd7 ;
+}
+
+#page-footer a{
+    color: #000000;
+}
+
+#page-footer .ftcontainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+    align-content: center;
+    padding-top:40px 0;
+    flex-wrap: nowrap;
+}
+
+.footer__menu{
+    max-width: 300px;
+    grid-column: 1/3;
+    grid-row-start: 1;
+    padding-left: 1em;
+}
+
+.footer__menu figure{
+    width: 100%;
+    padding: 0;
+    margin-top: 10px;
+
+}
+
+.footer__logo{
+    width: 300px;
+}
+
+#page-footer .ftcontainer {
+    max-width: 1200px;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 70px 0; 
+}
+
+.ft-social{
+    color: #000000;
+    border-radius: 100%;
+    height: auto;
+    width: 50px;
+    display: inline-block;
+    font-size: 14px;
+    line-height: inherit;
+}
+
+.ft-link{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.footer__title{
+    color: #000000;
+    font-weight: 700;
+    margin-bottom:30px;
+    font-size:1.2rem;
+}
+
+.footer__info{
+    color: #000000;
+    line-height:30px;
+    font-size: 1.0rem;
+}
+
+.footer__link:nth-child(1){
+    border-left: 2px solid #f3d707;
+}
+.footer__link:nth-child(2){
+    border-left: 2px solid #12d608;
+}
+.footer__link:nth-child(3){
+    border-left: 2px solid #f36507;
+}
+
+.footer-credits{
+    width: 100%;
+    color: #000000;
+    text-align: center;
+    background-color: #cef7c4;
+}
+
+/* pagina contacto  */
+#contacto .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 115px;
+}
+
+
+/* librosdeaccion */
+#librosdeaccion .titulo{
+    width: 100%;
+    text-align: center;
+}
+
+/* seccion pagos */
+#Pago .titulo{
+    width: 100%;
+    text-align: center;
+}
+#pagoenlinea .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 115px;
+
+}
+#pagoenlinea{
+    background-color: #dffdd7 !important;
+    width: 100%;
+    margin: 0 auto;
+}
+
+ #pagoenlinea, h3{
+    text-align: justify;
+ }
+
+ #inputEmail4{
+width: 600px;
+border-radius: 5px;
+margin: 10px;
+ }
+ 
+ #inputPassword4{
+width: 50pc;
+ }
+
+ #inputAddress{
+width: 50pc;
+ }
+ 
+ #inputAddress2{
+width: 50pc;
+ }
+ 
+ #inputCity{
+width: 50pc;
+ }
+/* Metodo de pago */
+ #inputState{
+width: 30pc;
+ }
+ 
+ #inputZip{
+    width: 50pc;
+ }
+ 
+ #accordionExample{
+    background-color: #dffdd7 !important;
+ }
+
+ #librosdeaccion{
+    background-color:#dffdd7 ;
+ }
+
+#librosdecontabilidad{
+    background-color: #dffdd7;
+}
+
+#librosdeterror{
+    background-color: #dffdd7;
+}
+
+#librosdemusica{
+    background-color: #dffdd7;
+}
+
+#librosdesistemas{
+    background-color: #dffdd7;
+}
+
